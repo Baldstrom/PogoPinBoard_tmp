@@ -1,0 +1,4 @@
+Added Component: Designator=J13(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=PogoPinSide Member=Component J13 PogoPin
+Added Room: Name=PogoPinSide

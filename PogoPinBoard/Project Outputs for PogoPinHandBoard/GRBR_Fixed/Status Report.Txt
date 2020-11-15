@@ -1,0 +1,30 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [PogoPinHandBoard.PrjPCB]
+   Generated File[PogoPinPadSide_Copper_Signal_Top.gbr]
+   Generated File[PogoPinPadSide_Copper_Signal_Bot.gbr]
+   Generated File[PogoPinPadSide_Pads_Bot.gbr]
+   Generated File[PogoPinPadSide_Pads_Top.gbr]
+   Generated File[PogoPinPadSide_Legend_Bot.gbr]
+   Generated File[PogoPinPadSide_Soldermask_Bot.gbr]
+   Generated File[PogoPinPadSide_Paste_Bot.gbr]
+   Generated File[PogoPinPadSide_Legend_Top.gbr]
+   Generated File[PogoPinPadSide_Paste_Top.gbr]
+   Generated File[PogoPinPadSide_Soldermask_Top.gbr]
+   Generated File[PogoPinPadSide_Keep-out.gbr]
+   Generated File[PogoPinPadSide_Mechanical_16.gbr]
+   Generated File[PogoPinPadSide_Mechanical_1.gbr]
+   Generated File[PogoPinPadSide_Profile.gbr]
+   Generated File[PogoPinPadSide_NPTH_Drill.gbr]
+   Generated File[PogoPinPadSide_PTH_Drill.gbr]
+   Generated File[PogoPinPadSide_Drawing_1.gbr]
+   Generated File[PogoPinPadSide_Drillmap_1.gbr]
+   Generated File[PogoPinPadSide.RUL]
+   Generated File[PogoPinPadSide.EXTREP]
+   Generated File[PogoPinPadSide.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 10:58:57 AM On 2/22/2020

@@ -1,0 +1,69 @@
+Change Component Designator: OldDesignator=J2 NewDesignator=J4
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J4 NewDesignator=J7
+Change Component Designator: OldDesignator=J5 NewDesignator=J8
+Change Component Designator: OldDesignator=J6 NewDesignator=J9
+Change Component Designator: OldDesignator=J7 NewDesignator=J11
+Change Component Designator: OldDesignator=J8 NewDesignator=J12
+Change Component Designator: OldDesignator=J9 NewDesignator=J13
+Change Component Designator: OldDesignator=J10 NewDesignator=J14
+Change Component Designator: OldDesignator=J11 NewDesignator=J15
+Change Component Designator: OldDesignator=J12 NewDesignator=J16
+Change Component Designator: OldDesignator=J13 NewDesignator=J17
+Added Component: Designator=J2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(FTSH-105-01-F-DV)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J10(FTSH-105-01-F-DV)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=J10-9
+Added Pin To Net: NetName=5V Pin=J12-1
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=J10-10
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LASER Pin=J1-1
+Added Pin To Net: NetName=LASER Pin=J6-1
+Added Net: Name=LASER
+Added Pin To Net: NetName=LIM1 Pin=J10-6
+Added Pin To Net: NetName=LIM1 Pin=J15-1
+Added Net: Name=LIM1
+Added Pin To Net: NetName=LIM2 Pin=J10-8
+Added Pin To Net: NetName=LIM2 Pin=J14-1
+Added Net: Name=LIM2
+Added Pin To Net: NetName=MOTOR1+ Pin=J5-1
+Added Pin To Net: NetName=MOTOR1+ Pin=J6-9
+Added Net: Name=MOTOR1+
+Added Pin To Net: NetName=MOTOR1- Pin=J2-1
+Added Pin To Net: NetName=MOTOR1- Pin=J4-1
+Added Pin To Net: NetName=MOTOR1- Pin=J6-3
+Added Pin To Net: NetName=MOTOR1- Pin=J6-7
+Added Net: Name=MOTOR1-
+Added Pin To Net: NetName=MOTOR2+ Pin=J3-1
+Added Pin To Net: NetName=MOTOR2+ Pin=J6-5
+Added Net: Name=MOTOR2+
+Added Pin To Net: NetName=SERVO1 Pin=J10-7
+Added Pin To Net: NetName=SERVO1 Pin=J11-1
+Added Net: Name=SERVO1
+Added Pin To Net: NetName=SERVO2 Pin=J9-1
+Added Pin To Net: NetName=SERVO2 Pin=J10-5
+Added Net: Name=SERVO2
+Added Pin To Net: NetName=SERVO3 Pin=J8-1
+Added Pin To Net: NetName=SERVO3 Pin=J10-3
+Added Net: Name=SERVO3
+Added Pin To Net: NetName=SERVO4 Pin=J7-1
+Added Pin To Net: NetName=SERVO4 Pin=J10-1
+Added Net: Name=SERVO4
+Added Pin To Net: NetName=USBRX' Pin=J10-4
+Added Pin To Net: NetName=USBRX' Pin=J16-1
+Added Net: Name=USBRX'
+Added Pin To Net: NetName=USBTX Pin=J10-2
+Added Pin To Net: NetName=USBTX Pin=J17-1
+Added Net: Name=USBTX
+Added Member To Class: ClassName=PogoPinSide Member=Component J14 PogoPin
+Added Member To Class: ClassName=PogoPinSide Member=Component J15 PogoPin
+Added Member To Class: ClassName=PogoPinSide Member=Component J16 PogoPin
+Added Member To Class: ClassName=PogoPinSide Member=Component J17 PogoPin
+Added Room: Name=PogoPinSide

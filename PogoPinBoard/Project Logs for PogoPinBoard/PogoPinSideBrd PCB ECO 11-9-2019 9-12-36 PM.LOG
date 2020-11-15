@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SERVO2 Pin=J4-1
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=LASER
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=LIM1

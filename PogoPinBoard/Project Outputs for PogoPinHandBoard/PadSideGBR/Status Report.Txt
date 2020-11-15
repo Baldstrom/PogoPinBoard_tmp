@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PogoPinHandBoard.PrjPCB]
+   Generated File[PogoPinPadSide.GTO]
+   Generated File[PogoPinPadSide.GTP]
+   Generated File[PogoPinPadSide.GTS]
+   Generated File[PogoPinPadSide.GTL]
+   Generated File[PogoPinPadSide.GBL]
+   Generated File[PogoPinPadSide.GBS]
+   Generated File[PogoPinPadSide.GBP]
+   Generated File[PogoPinPadSide.GBO]
+   Generated File[PogoPinPadSide.GM1]
+   Generated File[PogoPinPadSide.GM16]
+   Generated File[PogoPinPadSide.GKO]
+   Generated File[PogoPinPadSide.GPT]
+   Generated File[PogoPinPadSide.GPB]
+   Generated File[PogoPinPadSide.GD1]
+   Generated File[PogoPinPadSide.GG1]
+   Generated File[PogoPinPadSide.RUL]
+   Generated File[PogoPinPadSide.EXTREP]
+   Generated File[PogoPinPadSide.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 7:53:51 PM On 1/29/2020

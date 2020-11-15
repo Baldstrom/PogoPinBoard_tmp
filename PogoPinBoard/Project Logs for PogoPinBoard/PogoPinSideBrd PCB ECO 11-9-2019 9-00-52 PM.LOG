@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=MOTOR1- Pin=J1-1
+Removed Pin From Net: NetName=MOTOR1+ Pin=J2-1
+Removed Pin From Net: NetName=MOTOR2- Pin=J13-1
+Removed Pin From Net: NetName=MOTOR2+ Pin=J14-1
+Removed Pin From Net: NetName=MOTOR1- Pin=J17-5
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Added Component: Designator=J1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J13(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J14(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MOTOR1+ Pin=J1-1
+Added Pin To Net: NetName=MOTOR2- Pin=J14-1
+Added Pin To Net: NetName=MOTOR2+ Pin=J15-1

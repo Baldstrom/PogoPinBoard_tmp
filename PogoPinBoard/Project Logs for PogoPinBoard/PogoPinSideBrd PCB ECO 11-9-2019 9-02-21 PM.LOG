@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=MOTOR1- Pin=J2-1
+Added Pin To Net: NetName=MOTOR1- Pin=J17-5
+Added Member To Class: ClassName=PogoPinSide Member=Component J1 PogoPin

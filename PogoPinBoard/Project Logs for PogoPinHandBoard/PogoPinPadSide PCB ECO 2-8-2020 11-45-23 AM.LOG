@@ -1,0 +1,13 @@
+Added Component: Designator=J16(FTSH-105-01-F-DV)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=J16-1
+Added Pin To Net: NetName=MOTOR2+ Pin=J16-2
+Added Pin To Net: NetName=LIM2 Pin=J16-3
+Added Pin To Net: NetName=MOTOR2+ Pin=J16-4
+Added Pin To Net: NetName=SPARE Pin=J16-5
+Added Pin To Net: NetName=MOTOR2- Pin=J16-6
+Added Pin To Net: NetName=USBRX Pin=J16-7
+Added Pin To Net: NetName=MOTOR2- Pin=J16-8
+Added Pin To Net: NetName=USBTX Pin=J16-9
+Added Pin To Net: NetName=GND Pin=J16-10
+Added Member To Class: ClassName=Pads Member=Component J16 10-Pin Std Conn
